@@ -1,0 +1,20 @@
+Example-1:
+Nodes: Muhammad,Khadija,Fatima,Ali,Al-Hasan,Al-Husayn
+
+Edges:
+Muhammad->Khadija
+Khadija->Fatima
+Muhammad->Ali
+Fatima->Al-Hasan
+Fatima->Al-Husayn
+
+Example-2:
+Nodes: Muhit, Khaniz, Farhana, Alim, Al-Usman, Al- Hasnain
+
+Edges:
+Muhit->Khaniz 
+Khaniz->Farhana
+Muhit->Alim
+Farhana->Al-Usman
+Farhana->Al-Hasnain
+
